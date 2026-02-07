@@ -1,0 +1,6 @@
+name,type,status,eta
+Ambulance Unit A,medical,available,10 min
+Rescue Boat Team 1,rescue,available,15 min
+Food Supply Truck B,food,available,30 min
+Water Tanker C,water,busy,45 min
+Temporary Shelter Team,shelter,available,25 min
